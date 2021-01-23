@@ -1,0 +1,37 @@
+
+# Windows
+Thumbs.db
+
+# Visual Studio
+.vs
+
+# Visual Studio Code
+.vscode
+
+# Dotnet
+obj
+bin
+
+# For thos that still run Jetbrains
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Vim
+*.swp
+*.*~
+
+#Nuget
+*.nupkg
+
+# StarfixNG
+/Binaries/
+/Artifacts/
+_*
+
+#Tools
+/Tools/*
+!/Tools/packages.config
+
+Source/tags
+Source/*.sln
+Source/SlnBootstrap*
